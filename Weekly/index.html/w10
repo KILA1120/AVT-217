@@ -14,6 +14,6 @@
     background-image: url(../Short_Rib_image.jpeg);
     color:#010203;
     text-align:center;
-    }
-    
+   }
+  </style> 
 </html>
