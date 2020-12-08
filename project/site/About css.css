@@ -50,23 +50,13 @@ table {
 	border-spacing: 0;
 }
 
-#soul korea {
-	width: 596px;
-	height: 123px;
-	float: left;
-}
-
 #backgroun {
-	width: 1440px;
+	width: 1464px;
+	height: 1024;
 	float: left;
 	margin: 50px auto 0 auto;
 }
 
-#sub title {
-	width: 1095;
-	margin-left: 40px;
-	
-}
 
 nav {
 	width: 618;
@@ -86,4 +76,20 @@ a {
 	margin-left: 52px;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 	font-size: 36px;
+}
+
+h1 {
+	Position: relative;
+	top: 650px;
+	left: 62px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 24px;
+}
+
+h2 {
+	position: relative;
+	top: 700px;
+	left: 62px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 24px;	
 }

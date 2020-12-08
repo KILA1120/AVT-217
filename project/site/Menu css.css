@@ -50,24 +50,6 @@ table {
 	border-spacing: 0;
 }
 
-#soul korea {
-	width: 596px;
-	height: 123px;
-	float: left;
-}
-
-#backgroun {
-	width: 1440px;
-	float: left;
-	margin: 50px auto 0 auto;
-}
-
-#sub title {
-	width: 1095;
-	margin-left: 40px;
-	
-}
-
 nav {
 	width: 618;
 	margin-left: 100px;
@@ -81,7 +63,7 @@ ul {
 a {
 	position: relative;
 	top: 60px;
-	left: 230px;
+	left: 240px;
 	display: inline;
 	margin-left: 52px;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
