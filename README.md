@@ -20,15 +20,14 @@
 	}
 	</style>
 <body>
-	<img src="file:///C:/Users/YuJung/Desktop/Weekly/img/soul%20korea.pdf.png" class="soulkorea">
+	<img src="img/soul korea.pdf.png" class="soulkorea">
 	<img src="img/sub title.pdf.png" class="subtitle">
 	<nav>
-		<ul>
-			<li>Home</li>
-			<li>About</li>
-			<li>Menu</li>
-			<li>Reservation</li>
-		</ul>
+		<center><font size="11"><a href="Soul Korea restauran.html">Home</a>
+				<a href="About.html">About</a>
+				<a href="Menu.html">Menu</a>
+				<a href="Reservation.html">Reservation</a>
+		</center>
 		</nav>
 	<img src="img/background.png" alt="background">
 </body>
